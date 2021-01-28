@@ -1,12 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Murat-G&show_icons=true&theme=tokyonight" align='right' width="55%">
-
-
 ## Hi there 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murat-G" alt="Murat-G" /> </p>
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-g%C3%B6zderesi/)
-
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
@@ -14,6 +6,9 @@
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 💬 Ask me about anything that you want to learn 
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-g%C3%B6zderesi/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murat-G" alt="Murat-G" /> </p>
 
 ## 🚀 Skills
 
